@@ -1,0 +1,15 @@
+node_modules
+**/.next/**
+**/_next/**
+**/dist/**
+coverage
+build
+__mocks__
+
+package-lock.json
+
+.eslintignore
+.eslintrc.json
+.husky/
+.prettierignore
+.prettierrc
